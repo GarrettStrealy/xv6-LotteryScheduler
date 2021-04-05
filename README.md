@@ -7,9 +7,9 @@ time slice, a randomized lottery determines the winner of the lottery; that winn
 process is the one that runs for that time slice.
 
 The objectives for this project:
-• To gain further knowledge of a real kernel, xv6.
-• To familiarize yourself with a scheduler.
-• To change that scheduler to a new algorithm.
-• To make a graph to show your project behaves appropriately.
+- To gain further knowledge of a real kernel, xv6.
+- To familiarize yourself with a scheduler.
+- To change that scheduler to a new algorithm.
+- To make a graph to show your project behaves appropriately.
 
 
